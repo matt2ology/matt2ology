@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning the Rust programming language
-- 🤔 I’m looking for help with setting up Neovim
+- 🤔 I’m looking for help with setting up [Neovim](https://neovim.io/)
 - 😄 Pronouns: He/Him/His
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matt2ology&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
