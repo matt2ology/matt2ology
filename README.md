@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[Technical notes and learnings](https://github.com/matt2ology/obsidian-technical-notes)
+
 - 🌱 I’m currently learning the [Rust programming language](https://www.rust-lang.org/)
 - 🤔 I’m looking for help with setting up [Neovim](https://neovim.io/)
 - 😄 Pronouns: He/Him/His
