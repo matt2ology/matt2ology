@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning the [Rust programming language](https://www.rust-lang.org/)
 - 🤔 I’m looking for help with setting up [Neovim](https://neovim.io/)
-- 😄 Pronouns: He/Him/His
+- 😄 Pronouns : He/Him/His
+- 📝 Notes : [Technical notes and learnings](https://github.com/matt2ology/obsidian-technical-notes)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matt2ology&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Technical notes and learnings](https://github.com/matt2ology/obsidian-technical-notes)
