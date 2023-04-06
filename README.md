@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with setting up [Neovim](https://neovim.io/)
 - 😄 Pronouns : He/Him/His
 - 📝 Notes : [Technical notes and learnings](https://github.com/matt2ology/obsidian-technical-notes)
+- 🫥 .Dotfile Management : [Trying to make sense and use of my dotfiles](https://github.com/matt2ology/dotfiles)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matt2ology&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
