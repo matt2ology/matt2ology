@@ -22,5 +22,3 @@ Here are some ideas to get you started:
 - 🫥 .dotfile Management : [Trying to make sense and use of my dotfiles](https://github.com/matt2ology/dotfiles)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matt2ology&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matt2ology)](https://github.com/anuraghazra/github-readme-stats)
