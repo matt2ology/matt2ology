@@ -20,5 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns : He/Him/His
 - 📝 Notes : [Technical notes and learnings](https://github.com/matt2ology/obsidian-technical-notes)
 - 🫥 .dotfile Management : [Trying to make sense and use of my dotfiles](https://github.com/matt2ology/dotfiles)
+- 📷 My social photo album : [matt2ology Instagram](https://www.instagram.com/matt2ology/?hl=en)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matt2ology&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
