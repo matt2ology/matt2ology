@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning the [Rust programming language](https://www.rust-lang.org/)
 - 🤔 I’m looking for help with setting up [Neovim](https://neovim.io/)
-- 😄 Pronouns : He/Him/His
+- 😄 Pronouns : He / Him / His
 - 📝 Blog : [My Tech Journal and Non-sequitur Ramblings](https://matt2ology.github.io/) ⬅️ see what I've been up to
 - 🫥 .dotfile Management : [Trying to make sense and use of my dotfiles](https://github.com/matt2ology/dotfiles)
 - 📷 My social photo album : [matt2ology's Instagram](https://www.instagram.com/matt2ology/?hl=en)
